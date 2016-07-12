@@ -2,6 +2,13 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
+
+		<!--adding custom CSS-->
+		<link href="css/style.css" rel="stylesheet" type="text/css"/>
+
+		<!--adding custom JavaScript-->
+		<script src="js/custom.js" type="text/javascript"></script>
+		
 		<title>My Web Page</title>
 	</head>
 	<body>
