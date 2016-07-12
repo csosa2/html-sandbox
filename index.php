@@ -22,5 +22,6 @@
 		<div>
 			<p>Go to <a href="https://google.com" target="_blank">Google.com</a></p>
 		</div>
+		<img src="images/IMG_20151003_072748.jpg" alt="balloon fiesta"/>
 	</body>
 </html>
