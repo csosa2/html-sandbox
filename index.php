@@ -8,7 +8,7 @@
 
 		<!--adding custom JavaScript-->
 		<script src="js/custom.js" type="text/javascript"></script>
-		
+
 		<title>My Web Page</title>
 	</head>
 	<body>
@@ -35,11 +35,13 @@
 				<li>item 2</li>
 				<li>item 3</li>
 			</ol>
-			<!--cartoon image-->
+			<!-- insert google.com-->
 			<div>
 				<p>Go to <a href="https://google.com" target="_blank">Google.com</a></p>
 			</div>
+			<!--insert cartoon image-->
 			<img src="images/cartoon.jpeg" alt="cartoon"/>
+			<!--insert table-->
 			<table>
 				<tr>
 					<th>
