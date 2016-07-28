@@ -1,0 +1,24 @@
+/**
+* Style Sheet for HTML Sandbox
+*
+*/
+
+h1 {
+	color: fuchsia;
+	font-size: 50px;
+	background-color: limegreen;
+}
+
+h1 {
+	/*background-color: yellow;*/
+}
+
+.foo-title {
+	background-color: orange;
+	color: black;
+}
+
+.pretty-title {
+	color: turquoise;
+	border-radius: 20px;
+}
