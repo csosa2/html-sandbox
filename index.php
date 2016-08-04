@@ -30,8 +30,12 @@
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
+		<!--ADD YOU CUSTOM JS FILES HERE-->
+		<script src="js/custom.js" type="text/javascript"></script>
+
+		<title>My Bootstrap Page</title>
 	</head>
 	<body>
-
+		HAI! :D
 	</body>
 </html>
